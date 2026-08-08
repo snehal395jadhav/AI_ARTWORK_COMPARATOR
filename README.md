@@ -33,13 +33,13 @@
 ---
 ## Project Preview
 
-<a href="https://www.loom.com/share/03c615737fd247b0b66658f97518541f" target="_blank">
+<a href="https://www.loom.com/share/d657d1a1b2c645109ef3d05b07b7dbd5" target="_blank">
 
 <img src="https://raw.githubusercontent.com/snehal395jadhav/AI_ARTWORK_COMPARATOR/main/Screenshot.png"  width="95%"/>
 
 </a>
 
-👉 [Click here to watch full screen demo](https://www.loom.com/share/03c615737fd247b0b66658f97518541f)
+👉 [Click here to watch full screen demo](https://www.loom.com/share/d657d1a1b2c645109ef3d05b07b7dbd5)
 
 ---
 
