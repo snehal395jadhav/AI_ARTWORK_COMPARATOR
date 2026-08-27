@@ -6,6 +6,7 @@
 
 # AI Artwork Comparator
 
+
 ### Smart Proof QA Platform for Packaging Artwork Validation
 
 ### Enterprise AI • Computer Vision • OCR • Packaging QA
